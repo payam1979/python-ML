@@ -1,1 +1,1 @@
-A simple python ML project built with Python.
+This project is a machine learning application that predicts the price of a used car based on features like brand, year, mileage, fuel type, and condition.It scrapes real car listings from online sources, cleans the data, trains a regression model, and provides a price estimate for new inputs.
